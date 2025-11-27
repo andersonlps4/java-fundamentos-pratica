@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22bfa2c6-b827-4bc9-b893-e8d09826d954" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dia02/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dia02/TiposDeDados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dia03/CalculadoraIMC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dia03/EntradaDados.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +35,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Calculadora.executor": "Run",
+    "Application.CalculadoraIMC.executor": "Run",
+    "Application.EntradaDados.executor": "Run",
     "Application.HelloWord.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.TiposDeDados.executor": "Run",
@@ -67,5 +70,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/dia03/EntradaDados.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
