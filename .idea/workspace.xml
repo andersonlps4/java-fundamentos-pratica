@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22bfa2c6-b827-4bc9-b893-e8d09826d954" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dia05/JogoAdivinhacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dia05/LoopDoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dia05/LoopWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dia06/Fatorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dia06/LoopFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dia06/PadraoEstrelas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dia06/TabuadaCompleta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,11 +42,15 @@
     "Application.CalculadoraIMC.executor": "Run",
     "Application.EntradaDados.executor": "Run",
     "Application.EstruturaCondicional.executor": "Run",
+    "Application.Fatorial.executor": "Run",
     "Application.HelloWord.executor": "Run",
+    "Application.JogoAdivinhacao.executor": "Run",
     "Application.LoopDoWhile.executor": "Run",
+    "Application.LoopFor.executor": "Run",
     "Application.LoopWhile.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MenuSwitch.executor": "Run",
+    "Application.TabuadaCompleta.executor": "Run",
     "Application.TiposDeDados.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
