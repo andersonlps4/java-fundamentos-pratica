@@ -1,4 +1,4 @@
-package dia05;
+package semana01.dia05;
 
 public class LoopWhile {
     public static void main(String[] args){

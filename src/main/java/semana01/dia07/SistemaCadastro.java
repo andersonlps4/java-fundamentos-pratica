@@ -1,4 +1,4 @@
-package dia07;
+package semana01.dia07;
 
 import java.util.Scanner;
 

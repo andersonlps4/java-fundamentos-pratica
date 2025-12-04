@@ -1,4 +1,4 @@
-package dia06;
+package semana01.dia06;
 
 public class PadraoEstrelas {
     public static void main(String[] args) {

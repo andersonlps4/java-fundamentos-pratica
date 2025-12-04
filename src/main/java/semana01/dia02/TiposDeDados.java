@@ -1,4 +1,4 @@
-package dia02;
+package semana01.dia02;
 
 public class TiposDeDados {
     public static void main(String[] args){

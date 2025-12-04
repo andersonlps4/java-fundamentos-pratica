@@ -1,4 +1,4 @@
-package dia06;
+package semana01.dia06;
 import java.util.Scanner;
 
 public class TabuadaCompleta {

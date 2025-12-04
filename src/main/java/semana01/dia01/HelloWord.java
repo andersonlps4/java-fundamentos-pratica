@@ -1,4 +1,4 @@
-package dia01;
+package semana01.dia01;
 
 public class HelloWord {
     public static void main(String[] args) {
