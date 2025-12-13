@@ -5,28 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22bfa2c6-b827-4bc9-b893-e8d09826d954" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dia01/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/semana02/dia01/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/semana02/dia01/TesteCarro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/semana02/teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/semana02/dia02/BancoTeste.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dia01/HelloWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/semana01/dia01/HelloWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dia02/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/semana01/dia02/Calculadora.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dia02/TiposDeDados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/semana01/dia02/TiposDeDados.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dia03/CalculadoraIMC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/semana01/dia03/CalculadoraIMC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dia03/EntradaDados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/semana01/dia03/EntradaDados.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dia04/AprovacaoAluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/semana01/dia04/AprovacaoAluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dia04/EstruturaCondicional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/semana01/dia04/EstruturaCondicional.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dia04/MenuSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/semana01/dia04/MenuSwitch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dia05/JogoAdivinhacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/semana01/dia05/JogoAdivinhacao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dia05/LoopDoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/semana01/dia05/LoopDoWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dia05/LoopWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/semana01/dia05/LoopWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dia06/Fatorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/semana01/dia06/Fatorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dia06/LoopFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/semana01/dia06/LoopFor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dia06/PadraoEstrelas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/semana01/dia06/PadraoEstrelas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dia06/TabuadaCompleta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/semana01/dia06/TabuadaCompleta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dia07/SistemaCadastro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/semana01/dia07/SistemaCadastro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -55,6 +38,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AprovacaoAluno.executor": "Run",
+    "Application.BancoTeste.executor": "Run",
     "Application.Calculadora.executor": "Run",
     "Application.CalculadoraIMC.executor": "Run",
     "Application.Carro.executor": "Run",
