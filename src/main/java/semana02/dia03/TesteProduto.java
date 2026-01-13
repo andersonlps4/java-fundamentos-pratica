@@ -6,7 +6,7 @@ public class TesteProduto {
 
         Produto p1 = new Produto("Notebook", 3500.00, 10);
 
-        Produto p2 = new Produto("Mouse", 50.00);
+        Produto p2 = new Produto("Mouse", 50.00, 50);
 
         Produto p3 = new Produto();
         p3.nome = "Teclado";

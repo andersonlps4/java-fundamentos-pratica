@@ -15,11 +15,11 @@ public class Produto {
         this.quantidadeEstoque = quantidadeEstoque;
     }
 
-    public Produto(String nome, double preco) {
-        this.nome = nome;
-        this.preco = preco;
-        this.quantidadeEstoque = 0;
-    }
+    //public Produto(String nome, double preco) {
+   //     this.nome = nome;
+   //     this.preco = preco;
+   //     this.quantidadeEstoque = 0;
+   // }
 
     void exibirDetalhes() {
         System.out.println("Produto: " + this.nome);
