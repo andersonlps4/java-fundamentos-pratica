@@ -23,7 +23,7 @@ public class Funcionario {
         return salario;
     }
     public void setSalario(double salario){
-       if(salario >= ) {
+       if(salario >= 0) {
            this.salario = salario;
 
        }else{
